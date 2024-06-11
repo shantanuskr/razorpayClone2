@@ -1,6 +1,6 @@
 # razorpay_clone
  - this is the clone of razorpay made by me by taking help of a youtube tutorial
- - check it out at [razorpay_clone](https://razorpay-clone2-eight.vercel.app/)
+ - check it out at <a href = "https://razorpay-clone2-eight.vercel.app/" target="_blank">Razorpay Clone</a>
 ## How to use
  - open terminal (command prompt) in your system
  - type `cd Directory_name` to navigate to the folder (directory) where you want to open this project
